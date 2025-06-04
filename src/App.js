@@ -26,7 +26,7 @@ function App() {
     <div className="App">
       <RouterProvider router={appRouter}/>
       {/* <MainComponent/> */}
-      <RestaurantDetail/>
+      {/* <RestaurantDetail/> */}
     </div>
   );
 }                             
